@@ -7,15 +7,17 @@
   - `Function`
   - `Object`
 
-- **Pass by value**
-  - `pretty much everything else`
-
 ```mermaid
 graph LR;
 
 A[var X = ] --> C[" { prop: 'val' } "]
 B[var Z = ] --> C[" { prop: 'val' } "]
 ```
+
+
+- **Pass by value**
+  - `pretty much everything else`
+
 
 - **How to test if a variable is a reference**
   - ```javascript
