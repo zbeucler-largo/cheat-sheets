@@ -37,3 +37,5 @@ B[var Z = ] --> C[" { prop: 'val' } "]
     
 #### Libraries
 - [wtfnode](https://www.npmjs.com/package/wtfnode)
+- `process.memoryUsage()`
+- `process.memoryUsage().heapUsed`
