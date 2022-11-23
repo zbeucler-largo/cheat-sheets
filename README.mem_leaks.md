@@ -37,6 +37,7 @@ B[var Z = ] --> C[" { prop: 'val' } "]
     
 #### Libraries
 - [wtfnode](https://www.npmjs.com/package/wtfnode)
+- [node-gc-profiler](https://github.com/bretcope/node-gc-profiler)
 - `process.memoryUsage()`
 - `process.memoryUsage().heapUsed`
 - In Chrome's console: `performance.memory.usedJSHeapSize`
